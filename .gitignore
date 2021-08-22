@@ -1,0 +1,6 @@
+src/*/*/build/*
+src/*/*/dist/*
+*.pyc
+*.whl
+*.egg-info
+#*.txt
